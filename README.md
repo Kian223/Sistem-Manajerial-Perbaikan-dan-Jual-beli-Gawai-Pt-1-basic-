@@ -1,19 +1,19 @@
-# Sistem Manajerial Perbaikan & Jual Beli Gawai — Pt1 (Basic)
+# Gadget Sales & Repair Management System — Pt1 (Basic)
 
-Aplikasi berbasis web untuk membantu pengelolaan penjualan dan layanan servis gawai, termasuk pencatatan transaksi, pengelolaan layanan perbaikan, serta pembuatan laporan.
+A web-based application designed to support the management of gadget sales and repair services, including transaction records, service management, and report generation.
 
-## Tools yang Digunakan
+## Tools Used
 - Visual Studio Code
 - Laragon
 - Laravel
 - MySQL
 
-## Fitur Sistem
-- Menambahkan data penjualan
-- Menambahkan opsi layanan servis
-- Mengedit dan menghapus data
-- Mengganti bahasa (Indonesia / Inggris)
-- Laporan penjualan
-- Laporan servis
-- Laporan keseluruhan
-- Laporan pembeli
+## System Features
+- Add sales data
+- Add repair service options
+- Edit and delete data
+- Switch language (Indonesian / English)
+- Sales reports
+- Repair service reports
+- Overall reports
+- Customer reports
