@@ -5,6 +5,8 @@ Aplikasi berbasis web untuk membantu pengelolaan penjualan dan layanan servis ga
 ## Tools yang Digunakan
 - Visual Studio Code
 - Laragon
+- Laravel
+- MySQL
 
 ## Fitur Sistem
 - Menambahkan data penjualan
